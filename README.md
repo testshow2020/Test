@@ -1,5 +1,3 @@
-ÿþ# MaxabTest
-
 ## query examples
 ### Test 1 
 http://localhost:8080/schedule?startDate=2019-12-21&numOfSessions=1&days=1,2
